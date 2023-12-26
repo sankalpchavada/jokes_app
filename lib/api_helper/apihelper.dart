@@ -16,19 +16,3 @@ class ApiHelper {
   }
 }
 
-/*
-
-{
-"categories": [
-"explicit"
-],
-"created_at": "2020-01-05 13:42:29.296379",
-"icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
-"id": "cuLLs-WNRKK9Zdx6_RGZQA",
-"updated_at": "2020-01-05 13:42:29.296379",
-"url": "https://api.chucknorris.io/jokes/cuLLs-WNRKK9Zdx6_RGZQA",
-"value": "Never say that your life is hard... Chuck Norris wakes up with a dick harder than your pathetic life"
-}
-
-
- */
